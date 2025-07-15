@@ -1,0 +1,1 @@
+Simple ensemble of models which uses a moving point average, linear regression, gradient boosting regression, random forest regression and voting regressor to calculate the values of CO2 emissions and also calculating the Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE). Also calculates the feature importance. 
